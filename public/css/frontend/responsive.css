@@ -1,0 +1,171 @@
+@media (min-width: 150px) and (max-width: 479px) {
+.service_img ul li{
+width:100% !important;
+margin-left:0 !important;
+}
+.feature_boxx {
+    padding: 0em 1em !important;
+}
+.feature_boxx h2 {
+    font-size: 52px !important;
+    padding-top: 30px !important;
+}
+.feature__container {
+    display: block !important;
+    flex-wrap: wrap;
+}
+.feature_boxx p{
+width:100% !important;
+}
+
+section.service_boxx h2{
+font-size:60px !important;
+}
+section.service_boxx p{
+width:100% !important;
+}
+
+
+.left-section {
+    width: 100% !important;
+    float: none;
+}
+.quiz_boxx{
+display: inherit !important;
+}
+
+.right-section{
+ float: none !important; 
+width:100% !important; 
+}
+.timeline_boxx_number span {
+    font-weight: 400;
+    position: relative;
+    left: -10px !important;
+}
+.section-title h2{
+font-size:42px !important;
+}
+
+
+.boxx_time {
+    border-left: 1px solid #000;
+    margin-left: 20px !important;
+}
+.quiz_content{
+padding-bottom: 6em;
+}
+.work-img {
+    margin-top: 40px;
+}
+.project-images ul li{
+width:100% !important;
+}
+
+.project-details ul li{
+width:100% !important;
+margin-bottom: 20px;
+}
+.service_img-three ul li {
+    width: 100% !important;
+    padding: 20px !important;
+    margin-left: 0 !important;
+}
+.service_img-four ul li {
+    width: 100% !important;
+    padding: 20px !important;
+    margin-left: 0 !important;
+}
+.hero__title p{
+	width:100% !important;
+}
+
+}
+
+
+@media (min-width: 480px) and (max-width: 767px) {
+.service_img ul li{
+width:46% !important;
+}
+.left-section {
+    width: 100% !important;
+    float: none;
+}
+.quiz_boxx{
+display: inherit !important;
+}
+
+.right-section{
+ float: none !important;   
+}
+.quiz_content{
+padding-bottom: 6em;
+}
+.work-img {
+    margin-top: 40px;
+}
+.service_img-four ul li{
+width:46% !important;
+}
+.project-images ul li{
+width:100% !important;
+}
+.project-details ul li{
+width:100% !important;
+margin-bottom: 20px;
+}
+.service_img-three ul li{
+width:46% !important;
+}
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+.service_img ul li{
+width:46% !important;
+}
+.left-section {
+    width: 100% !important;
+    float: none;
+}
+.quiz_boxx{
+display: inherit !important;
+}
+
+.right-section{
+ float: none !important;   
+}
+.quiz_content{
+padding-bottom: 6em;
+}
+.work-img {
+    margin-top: 40px;
+}
+.service_img-four ul li{
+width:100% !important;
+}
+
+.project-details ul li{
+width:46% !important;
+margin-bottom: 20px;
+}
+.project-images ul li{
+width:30% !important;
+}
+.service_img-three ul li{
+width:46% !important;
+}
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+.project-images ul li{
+width:30% !important;
+}
+.service_img-three ul li{
+width:46% !important;
+}
+
+}
